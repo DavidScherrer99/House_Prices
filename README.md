@@ -10,3 +10,4 @@
     - transfo année en age de la maison
 
 5. Tester plusieurs modèles et faire leur pipeline
+    - Avec cross validation et optuna
