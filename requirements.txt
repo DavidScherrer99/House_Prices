@@ -1,3 +1,4 @@
+ipykernel==6.29.5
 matplotlib==3.10.1
 numpy==2.2.5
 optuna==4.3.0

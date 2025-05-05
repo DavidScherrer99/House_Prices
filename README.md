@@ -1,5 +1,12 @@
 # House_Prices
 
+*Setup:*
+```sh
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
 1. Analyse de données pour le choix des variables
 
 2. Faire une baseline avec régession linéaire
