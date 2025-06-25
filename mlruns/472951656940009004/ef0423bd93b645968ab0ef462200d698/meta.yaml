@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/472951656940009004/ef0423bd93b645968ab0ef462200d698/artifacts
+deleted_time: 1750878141546
+end_time: 1750877748033
+entry_point_name: ''
+experiment_id: '472951656940009004'
+lifecycle_stage: deleted
+run_id: ef0423bd93b645968ab0ef462200d698
+run_name: Ridge_Optuna_Best
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750877747955
+status: 3
+tags: []
+user_id: david

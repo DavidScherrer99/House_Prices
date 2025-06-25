@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/437354363026289280/cad2dc59a90048ddb02cd6b526e099b7/artifacts
+end_time: 1750879737542
+entry_point_name: ''
+experiment_id: '437354363026289280'
+lifecycle_stage: active
+run_id: cad2dc59a90048ddb02cd6b526e099b7
+run_name: XGBoost_Optuna_Best
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750879737477
+status: 3
+tags: []
+user_id: david

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/437354363026289280/5d16aea7bd434f6cb4f5858df8a5001f/artifacts
+deleted_time: 1750869867797
 end_time: 1750850482813
 entry_point_name: ''
 experiment_id: '437354363026289280'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5d16aea7bd434f6cb4f5858df8a5001f
 run_name: XGBoost_Optuna_Best
 source_name: ''

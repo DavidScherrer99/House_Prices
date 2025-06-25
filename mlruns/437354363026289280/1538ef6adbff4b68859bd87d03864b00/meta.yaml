@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/437354363026289280/1538ef6adbff4b68859bd87d03864b00/artifacts
+deleted_time: 1750869867796
 end_time: 1750850482705
 entry_point_name: ''
 experiment_id: '437354363026289280'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1538ef6adbff4b68859bd87d03864b00
 run_name: Ridge_Optuna_Best
 source_name: ''

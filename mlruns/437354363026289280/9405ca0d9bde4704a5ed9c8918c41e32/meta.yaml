@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/437354363026289280/9405ca0d9bde4704a5ed9c8918c41e32/artifacts
+deleted_time: 1750878659747
+end_time: 1750867681521
+entry_point_name: ''
+experiment_id: '437354363026289280'
+lifecycle_stage: deleted
+run_id: 9405ca0d9bde4704a5ed9c8918c41e32
+run_name: Random Forest_Optuna_Best
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750867681436
+status: 3
+tags: []
+user_id: david

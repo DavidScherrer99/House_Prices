@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/472951656940009004/f3d89cd5eeaa4e4e914b5239272f4f8c/artifacts
+deleted_time: 1750878389548
+end_time: 1750878373277
+entry_point_name: ''
+experiment_id: '472951656940009004'
+lifecycle_stage: deleted
+run_id: f3d89cd5eeaa4e4e914b5239272f4f8c
+run_name: Ridge_Final_Model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750878370842
+status: 3
+tags: []
+user_id: david
